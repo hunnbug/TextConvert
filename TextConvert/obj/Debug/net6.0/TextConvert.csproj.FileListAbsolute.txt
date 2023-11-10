@@ -1,0 +1,17 @@
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\bin\Debug\net6.0\TextConvert.exe
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\bin\Debug\net6.0\TextConvert.deps.json
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\bin\Debug\net6.0\TextConvert.runtimeconfig.json
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\bin\Debug\net6.0\TextConvert.dll
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\bin\Debug\net6.0\TextConvert.pdb
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.AssemblyInfoInputs.cache
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.AssemblyInfo.cs
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.csproj.CoreCompileInputs.cache
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.dll
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\refint\TextConvert.dll
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.pdb
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.genruntimeconfig.cache
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\ref\TextConvert.dll
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.csproj.AssemblyReference.cache
+H:\CODING\mocha\pythonabc\TextConvert\TextConvert\obj\Debug\net6.0\TextConvert.csproj.CopyComplete
